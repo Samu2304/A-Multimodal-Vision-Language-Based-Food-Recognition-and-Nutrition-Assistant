@@ -1,4 +1,4 @@
-# 🍽️ Multimodal Food Recognition & Nutrition Assistant
+# Multimodal Food Recognition & Nutrition Assistant
 
 <div align="center">
 
@@ -10,30 +10,18 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Google Colab](https://img.shields.io/badge/Open%20in-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com)
 
-**A multimodal AI system that identifies food from photos and delivers full nutritional analysis, recipe matching, and conversational Q&A — all in one interface.**
 
-(https://huggingface.co/spaces/samyukthasreenivasan/food-nutrition-assistant) • [📓 Notebooks](#-notebooks) • [📊 Dataset](#-datasets) • [🛠️ Setup](#-setup)
-
-</div>
-
----
 
 ## Output
 
-<div align="center">
+<img width="1433" height="604" alt="image" src="https://github.com/user-attachments/assets/5ba43b4f-e7c4-44c7-abba-bd6a67ef51c3" />
 
-| Upload Food Photo | Nutrition Analysis | Recipe Matching | Q&A Chatbot |
-|---|---|---|---|
-| <img width="1433" height="604" alt="image" src="https://github.com/user-attachments/assets/5ba43b4f-e7c4-44c7-abba-bd6a67ef51c3" />
- | <img width="1490" height="603" alt="image" src="https://github.com/user-attachments/assets/a2624f26-9528-4548-87dd-8b35b4c3cf19" />
- | <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/47e9d275-3e02-4898-b478-21ff79ea8832" />
- | <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c6761524-e958-4513-bf53-e73092e7d8c3" />
- |
+<img width="1490" height="603" alt="image" src="https://github.com/user-attachments/assets/a2624f26-9528-4548-87dd-8b35b4c3cf19" />
 
-</div>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/47e9d275-3e02-4898-b478-21ff79ea8832" />
 
----
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c6761524-e958-4513-bf53-e73092e7d8c3" />
+ 
 ## Key Features
 
 - **Zero-Shot Food Recognition** — CLIP identifies food from any photo without task-specific training
