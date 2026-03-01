@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (too large for GitHub)
+data/*.csv
+data/*.index
+data/*.npy
+data/*.pkl
+!data/sample/
+
+# Model weights
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Colab / Drive
+*.gdrive
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Outputs
+outputs/
+nutrition_assistant_outputs/
