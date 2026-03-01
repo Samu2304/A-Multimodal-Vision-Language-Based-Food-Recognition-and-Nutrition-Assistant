@@ -1,6 +1,5 @@
 # Multimodal Food Recognition & Nutrition Assistant
 
-<div align="center">
 
 <img width="1280" height="420" alt="image" src="https://github.com/user-attachments/assets/5590514c-66b5-4ca9-bee9-bb8c604ee242" />
 
