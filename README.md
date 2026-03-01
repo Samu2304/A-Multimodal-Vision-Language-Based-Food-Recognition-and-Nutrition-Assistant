@@ -18,29 +18,33 @@
 
 ---
 
-## 📸 Demo
+## Output
 
 <div align="center">
 
 | Upload Food Photo | Nutrition Analysis | Recipe Matching | Q&A Chatbot |
 |---|---|---|---|
-| ![Upload](assets/screenshots/upload.png) | ![Nutrition](assets/screenshots/nutrition.png) | ![Recipes](assets/screenshots/recipes.png) | ![Chat](assets/screenshots/chat.png) |
+| <img width="1433" height="604" alt="image" src="https://github.com/user-attachments/assets/5ba43b4f-e7c4-44c7-abba-bd6a67ef51c3" />
+ | <img width="1490" height="603" alt="image" src="https://github.com/user-attachments/assets/a2624f26-9528-4548-87dd-8b35b4c3cf19" />
+ | <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/47e9d275-3e02-4898-b478-21ff79ea8832" />
+ | <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c6761524-e958-4513-bf53-e73092e7d8c3" />
+ |
 
 </div>
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- **📷 Zero-Shot Food Recognition** — CLIP identifies food from any photo without task-specific training
-- **🥗 USDA Nutrition Lookup** — Full nutritional breakdown (14 nutrients) from 7,700+ foods
-- **📖 Semantic Recipe Search** — FAISS-powered RAG retrieves relevant recipes from 2.2M recipe dataset
-- **💬 Conversational Q&A** — Flan-T5 LLM answers health, diet, and recipe questions grounded in real data
-- **🌐 Permanent Public Demo** — Deployed on HuggingFace Spaces, accessible anytime
+- **Zero-Shot Food Recognition** — CLIP identifies food from any photo without task-specific training
+- **USDA Nutrition Lookup** — Full nutritional breakdown (14 nutrients) from 7,700+ foods
+- **Semantic Recipe Search** — FAISS-powered RAG retrieves relevant recipes from 2.2M recipe dataset
+- **Conversational Q&A** — Flan-T5 LLM answers health, diet, and recipe questions grounded in real data
+- **Permanent Public Demo** — Deployed on HuggingFace Spaces, accessible anytime
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -73,7 +77,7 @@
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 | Dataset | Source | Size | Purpose |
 |---|---|---|---|
@@ -87,7 +91,7 @@
 
 ---
 
-## 🤖 Models
+## Models
 
 | Model | Role | Parameters |
 |---|---|---|
@@ -97,7 +101,7 @@
 
 ---
 
-## 📓 Notebooks
+## Notebooks
 
 Run these in order in **Google Colab**:
 
@@ -217,13 +221,13 @@ The identified food name, USDA nutrition data, and matched recipes are assembled
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) for the nutrition database
 - [OpenAI CLIP](https://openai.com/research/clip) for the vision-language model
